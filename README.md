@@ -1,4 +1,4 @@
-### AOR2 Project - KVM Hypervisor
+# AOR2 Project - KVM Hypervisor
 
 This project was developed as part of the Computer Architecture And Organization 2 course at the School of Electrical Engineering, University of Belgrade.
 
